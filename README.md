@@ -18,8 +18,6 @@ Currently, I'm focused on blockchain development and integrating cutting-edge te
 
 <br/>
 
-
-## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alanbasilio) 
 
 <!--START_SECTION:waka-->
