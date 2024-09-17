@@ -29,10 +29,10 @@ From: 13 February 2023 - To: 17 September 2024
 
 Total Time: 212 hrs 13 mins
 
-JavaScript       195 hrs 58 mins >>>>>>>>>>>>>>>>>>>>>>>--   92.35 %
+Typescript       195 hrs 58 mins >>>>>>>>>>>>>>>>>>>>>>>--   92.35 %
 CSS              3 hrs 12 mins   -------------------------   01.51 %
 HTML             3 hrs 11 mins   -------------------------   01.50 %
-Bash             2 hrs 35 mins   -------------------------   01.22 %
+Rust             2 hrs 35 mins   -------------------------   01.22 %
 JSON             2 hrs 6 mins    -------------------------   01.00 %
 TypeScript       1 hr 36 mins    -------------------------   00.76 %
 YAML             1 hr 20 mins    -------------------------   00.63 %
