@@ -1,6 +1,6 @@
 <div align="center">
 <!--![readmebox](https://github.com/alanbasilio/alanbasilio/blob/main/readmebox%20(2).svg) -->
-##Hello! I am Alan Basilio
+<h1>Hello! I am Alan Basilio</h1>
 
 I’m a Senior Full Stack Engineer based in São Paulo, Brazil, with over 15 years of experience. I’m passionate about building scalable, high-performance web and mobile applications. Throughout my career, I’ve had the privilege of working with major brands like CASIO, Santander, and AVON, delivering solutions that are not only visually appealing but also impactful.
 
@@ -19,8 +19,7 @@ Currently, I'm focused on blockchain development and integrating cutting-edge te
 <br/>
 
 
-
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alanbasilio) 
 
 <!--START_SECTION:waka-->
