@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan </h1>
 <h3 align="center">👀 Nice to meet you all! 👀</h3>
-<h3 align="center">An UnderGrad student studying Computer Science in India</h3>
+<h3 align="center">A full stack engineer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
@@ -10,7 +10,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/alanbasiliooo" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_nakrani_?logo=twitter&style=for-the-badge" alt="vivek_nakrani_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/alanbasiliooo" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_nakrani_?logo=twitter&style=for-the-badge" alt="alan basilio" /></a> </p>
 
 
 - 🌱 I’m currently learning **Blockchain, Smart Contracts, Web Development**
