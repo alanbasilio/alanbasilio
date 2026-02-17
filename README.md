@@ -55,15 +55,6 @@ Senior Full Stack Engineer with **10+ years of experience**, specializing in fro
   <a href="https://discord.com/users/1116574584293040168" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanbasilio&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alanbasilio&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
 <p align="center">
   <a href="https://buymeacoffee.com/alanbasilio" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
 </p>
