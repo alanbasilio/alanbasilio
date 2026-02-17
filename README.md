@@ -1,35 +1,69 @@
-<h1 align="center">Hi 👋, I'm Alan </h1>
-<h3 align="center">👀 Nice to meet you all! 👀</h3>
-<h3 align="center">A full stack engineer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<h1 align="center">Hi 👋, I'm Alan Basilio</h1>
+<h3 align="center">Senior Full Stack Engineer | Web3 & Solana | Blockchain & DeFi</h3>
+<h3 align="center">Based in São Paulo, Brazil 🇧🇷</h3>
 
-
-
-
-
-
-
-
-<p align="left"> <a href="https://twitter.com/alanbasiliooo" target="blank"><img src="https://img.shields.io/twitter/follow/alanbasiliooo?logo=twitter&style=for-the-badge" alt="alan basilio" /></a> </p>
-
-
-- 🌱 I’m currently learning **Blockchain, Smart Contracts, Web Development**
-
-- 💬 Ask me about **WEB 3.0, NFTs and Blockchain**
-
-- 📫 How to reach me **hi@alanbasilio.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/alanbasiliooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alanbasiliooo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alanbasilio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanbasilio" height="30" width="40" /></a>
-<a href="https://discord.com/users/1116574584293040168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alanbasilio" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://alanbasilio.com">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/alanbasilio">LinkedIn</a> •
+  <a href="mailto:fraterinti@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanbasilio&show_icons=true&locale=en&layout=compact" alt="alanbasilio" /></p>
+### About Me
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/alanbasilio) 
+Senior Full Stack Engineer with **10+ years of experience**, specializing in frontend architecture and blockchain development within the **Solana ecosystem**. Active contributor to **Superteam Solana** with a background in building DeFi applications and scalable microservices.
 
+- 🚀 **Currently** – Architecting backend microservices and cross-platform apps for a European bus booking platform (Gipsyy)
+- ⚡ **Previously** – Built the DFlow trading marketplace on Solana; led legacy Java → React Native migration at GPA
+- 🏆 **Highlight** – Co-developed "Blocos de Rua", awarded by Google for innovative Voice API implementation
+- 🌍 **Languages** – English (Full Professional) · Portuguese (Native) · German (Elementary)
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" alt="Solana" />
+  <img src="https://img.shields.io/badge/Anchor-5000CA?style=flat&logo=anchor&logoColor=white" alt="Anchor" />
+</p>
+
+**Frontend:** React, Next.js, React Native, TypeScript, Webpack, SASS  
+**Backend:** .NET 7, Ruby on Rails, Node.js, RESTful APIs, Swagger/OpenAPI  
+**Blockchain:** Solana, Anchor, Web3, DeFi  
+**DevOps & Cloud:** Kubernetes (EKS), Terraform, Ansible, Docker, AWS, GitHub Actions  
+**Testing:** Cypress, Jest, TDD
+
+---
+
+### Connect with me
+
+<p align="left">
+  <a href="https://x.com/alanbasiliooo" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/alanbasilio" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://github.com/alanbasilio" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1116574584293040168" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alanbasilio&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alanbasilio&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/alanbasilio" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+</p>
