@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Basilio</h1>
-<h3 align="center">Senior Full Stack Engineer | Web3 & Solana | Blockchain & DeFi</h3>
-<h3 align="center">Based in São Paulo, Brazil 🇧🇷</h3>
+<h3 align="center">Senior Full Stack Engineer | Based in São Paulo, Brazil 🇧🇷</h3>
 <h3 align="center">Open to work</h3>
 <p align="center">
   <a href="https://alanbasilio.com">Portfolio</a> •
