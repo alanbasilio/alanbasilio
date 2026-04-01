@@ -4,14 +4,14 @@
 <p align="center">
   <a href="https://alanbasilio.com">Portfolio</a> •
   <a href="https://www.linkedin.com/in/alanbasilio">LinkedIn</a> •
-  <a href="mailto:fraterinti@gmail.com">Email</a>
+  <a href="mailto:hi@alanbasilio.com">Email</a>
 </p>
 
 ---
 
 ### About Me
 
-Senior Full Stack Engineer with **10+ years of experience**, specializing in frontend architecture and blockchain development within the **Solana ecosystem**. Active contributor to **Superteam Solana** with a background in building DeFi applications and scalable microservices.
+Full Stack Engineer with 15+ years of experience building production systems across web, mobile, and blockchain. React/React Native frontends, Node.js/Rails/Rust backends, AWS with Kubernetes. Shipped in fintech, logistics, and e-commerce. Open to remote Full Stack or Mobile Engineer roles.
 
 - 🚀 **Currently** – Looking for a new remote engineering role
 - ⚡ **Previously** – Built backend microservices and cross-platform apps for a European bus booking platform (Gipsyy)
