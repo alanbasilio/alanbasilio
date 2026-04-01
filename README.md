@@ -13,8 +13,8 @@
 
 Senior Full Stack Engineer with **10+ years of experience**, specializing in frontend architecture and blockchain development within the **Solana ecosystem**. Active contributor to **Superteam Solana** with a background in building DeFi applications and scalable microservices.
 
-- 🚀 **Currently** – Architecting backend microservices and cross-platform apps for a European bus booking platform (Gipsyy)
-- ⚡ **Previously** – Built the DFlow trading marketplace on Solana; led legacy Java → React Native migration at GPA
+- 🚀 **Currently** – Looking for a new remote engineering role
+- ⚡ **Previously** – Built backend microservices and cross-platform apps for a European bus booking platform (Gipsyy)
 - 🏆 **Highlight** – Co-developed "Blocos de Rua", awarded by Google for innovative Voice API implementation
 - 🌍 **Languages** – English (Full Professional) · Portuguese (Native) · German (Elementary)
 
