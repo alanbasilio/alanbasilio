@@ -11,7 +11,7 @@
 
 ### About Me
 
-Full Stack Engineer with 15+ years of experience building production systems across web, mobile, and blockchain. React/React Native frontends, Node.js/Rails/Rust backends, AWS with Kubernetes. Shipped in fintech, logistics, and e-commerce. Open to remote Full Stack or Mobile Engineer roles.
+Full Stack & AI Engineer with 15+ years shipping production systems. Built RAG pipelines, LangGraph agents, and LLM-powered features using OpenAI and Claude APIs. React/React Native frontends, Node.js/Rails/Python backends, AWS with Kubernetes. Shipped in fintech, logistics, and e-commerce. Open to remote Full Stack, Mobile, or AI Engineer roles.
 
 - 🚀 **Currently** – Looking for a new remote engineering role
 - ⚡ **Previously** – Built backend microservices and cross-platform apps for a European bus booking platform (Gipsyy)
@@ -23,13 +23,13 @@ Full Stack Engineer with 15+ years of experience building production systems acr
 ### Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python?style=flat&logo=typescript&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
@@ -38,8 +38,8 @@ Full Stack Engineer with 15+ years of experience building production systems acr
 </p>
 
 **Frontend:** React, Next.js, React Native, TypeScript, Webpack, SASS  
-**Backend:** .NET 7, Ruby on Rails, Node.js, RESTful APIs, Swagger/OpenAPI  
-**Blockchain:** Solana, Anchor, Web3, DeFi  
+**Backend:** Python, Ruby on Rails, Node.js, RESTful APIs, Swagger/OpenAPI  
+**AI Engineering:** LLMs (OpenAI, Claude, Llama), RAG, LangChain, LangGraph, Prompt Engineering, AI Agents, Embeddings, pgvector, Pinecone, Fine-tuning (LoRA/QLoRA), Hugging Face, vLLM, Ollama
 **DevOps & Cloud:** Kubernetes (EKS), Terraform, Ansible, Docker, AWS, GitHub Actions  
 **Testing:** Cypress, Jest, TDD
 
@@ -54,6 +54,3 @@ Full Stack Engineer with 15+ years of experience building production systems acr
   <a href="https://discord.com/users/1116574584293040168" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/alanbasilio" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
-</p>
