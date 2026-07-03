@@ -23,7 +23,7 @@ Full Stack & AI Engineer with 15+ years shipping production systems. Built RAG p
 ### Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
