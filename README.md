@@ -10,7 +10,7 @@
 
 ### About Me
 
-Full Stack & AI Engineer with 15+ years shipping production systems. Built RAG pipelines, LangGraph agents, and LLM-powered features using OpenAI and Claude APIs. React/React Native frontends, Node.js/Rails/Python backends, AWS with Kubernetes. Shipped in fintech, logistics, and e-commerce. Open to remote Full Stack, Mobile, or AI Engineer roles.
+Full Stack & AI Engineer with 15+ years shipping production systems. Built RAG pipelines, LangGraph agents, and LLM-powered features using OpenAI and Claude APIs. React/React Native frontends, Node.js/Rails/Python backends, AWS with Kubernetes. Shipped in fintech, logistics, and e-commerce. 
 
 - ⚡ **Previously** – Built backend microservices and cross-platform apps for a European bus booking platform (Gipsyy)
 - 🏆 **Highlight** – Co-developed "Blocos de Rua", awarded by Google for innovative Voice API implementation
